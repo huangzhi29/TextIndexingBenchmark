@@ -1,0 +1,188 @@
+Final Fantasy: The Spirits Within
+ 
+{{Infobox film
+| name           = Final Fantasy: The Spirits Within
+| image          = Final Fantasy The Spirits Within (2011 film) poster.jpg
+| caption        = Theatrical release poster
+| alt               = Theatrical poster for Final Fantasy: The Spirits Within
+| director       = Hironobu Sakaguchi Chris Lee
+| screenplay     = Al Reinert Jeff Vintar
+| story          = Hironobu Sakaguchi
+| based on       =  
+| starring       = Ming-Na Alec Baldwin James Woods Donald Sutherland Ving Rhames Steve Buscemi Peri Gilpin
+| music          = Elliot Goldenthal
+| editing        = Chris S. Capp Square Pictures 
+| distributor    = Columbia Pictures
+| released       =  
+| runtime        = 108 minutes 
+| country        = United States   
+| language       = English
+| budget         = $137 million    
+| gross          = $85.1 million 
+}} video game-inspired film of all time.  It features the voices of Ming-Na, Alec Baldwin, Donald Sutherland, James Woods, Ving Rhames, Peri Gilpin and Steve Buscemi. The Spirits Within follows scientists Aki Ross and Doctor Sid in their efforts to free a Apocalyptic and post-apocalyptic fiction|post-apocalyptic Earth from a mysterious and deadly alien race known as the Phantoms, which has driven the remnants of humanity into "barrier cities". Aki and Sid must fight against General Hein, who wishes to use more violent means to end the conflict.
+
+Square Pictures rendered the film using some of the most advanced processing capabilities available for film animation at the time. A render farm consisting of 960 workstations was tasked with rendering each of the films 141,964 Film frame|frames. It took a staff of 200 and about four years to complete The Spirits Within. Square intended to make the character of Aki Ross into the worlds first photorealistic computer-animated actress, with plans for appearances in multiple films in different roles.
+
+The Spirits Within debuted to mixed critical reception, but was widely praised for the realism of the computer-animated characters. Due to rising costs, the film greatly exceeded its original budget towards the end of production, reaching a final cost of $137 million, of which it recovered only $85 million at the box office.  The film has been called a box office bomb    and is blamed for the demise of Square Pictures.   
+
+==Plot== Gaia spirit of living beings, killing them instantly, though a minor contact may only result in an infection. The surviving humans live in "barrier cities", areas protected by an energy shield that prevents Phantoms from entering, and are engaged in an ongoing struggle to free the planet. After being infected by a Phantom during one of her experiments, Aki Ross (Ming-Na) and her mentor, Doctor Sid (Donald Sutherland), uncover a means of defeating the Phantoms by gathering eight spirit signatures that, when joined, can negate the Phantoms. Aki is searching for the sixth spirit in the ruins of New York City when she is cornered by Phantoms but is rescued by Gray Edwards (Alec Baldwin) and his squad "Deep Eyes", consisting of Ryan Whittaker (Ving Rhames), Neil Fleming (Steve Buscemi) and Jane Proudfoot (Peri Gilpin). It is revealed that Gray was once romantically involved with Aki.
+
+Upon returning to her barrier city, Aki joins Sid and appears before the leadership council along with General Hein (James Woods), who is determined to use the powerful Zeus space cannon to destroy the Phantoms. Aki is concerned the cannon will damage Earths Gaia (a spirit representing its ecosystem) and delays the use of it by revealing that she has been infected and the collected spirit signatures are keeping her infection stable, convincing the council that there may be another way to defeat the Phantoms. This revelation incorrectly convinces Hein that she is being controlled by the Phantoms. Aki and the Deep Eyes squad succeed in finding the seventh spirit as Akis infection begins to worsen and she slips into unconsciousness. Her dream reveals to her that the Phantoms are the spirits of dead aliens brought to Earth on a fragment of their destroyed planet. Sid uses the seventh spirit to bring Akis infection back under control, reviving her.
+
+To scare the council into giving him clearance to fire the Zeus cannon, Hein lowers part of the barrier shield protecting the city. Though Hein intended that only a few Phantoms enter, his plan goes awry and legions of Phantoms invade the entire city. Aki, Sid and the Deep Eyes attempt to reach Akis spaceship, their means of escape, but Ryan, Neil and Jane are killed by Phantoms. Hein escapes and boards the Zeus space-station where he finally receives authorisation to fire the cannon.
+ vision of the Phantom home planet, where she is able to receive the eighth spirit from the alien particles in herself. When Aki wakes, she and Gray combine it with the other seven. Hein continues to fire the Zeus cannon despite overheating warnings and unintentionally destroys the cannon and himself. Gray sacrifices himself as a medium needed to physically transmit the completed spirit into the alien Gaia. The Earths Gaia is returned to normal as the Phantoms ascend into space, finally at peace. Aki is pulled from the crater holding Grays body, and is seen looking into the newly liberated world.
+
+==Themes==
+Director Sakaguchi named the main character after his mother, Aki, who died in an accident several years prior to the production of the film. Her death led Sakaguchi to reflect on what happened to the spirit after death, and these thoughts resurfaced while he was planning the film, eventually taking the form of the Gaia hypothesis.    He later explained that the theme he wanted to convey was "more of a complex idea of life and death and spirit", believing that the best way to portray this would be to set the film on Earth. By comparison, Final Fantasy video games are set in fictional worlds.  Dan Mayers from Sight & Sound stated the film followed the same theme typically found in Final Fantasy video games: "A party of heroes averts impending global holocaust by drawing on their individual skills, gaining knowledge through challenges and emerging victorious with new-found love and respect for themselves and their companions." 
+
+Writing in the book Robot Ghosts and Wired Dreams, Livia Monnet stated the film remediated "the notion of life in the neovitalistic, evolutionary biology of Lynn Margulis and in contemporary theories on artificial life", going on to state that the films exploration of the Gaia hypothesis raised interesting questions regarding the life and death process of both cinema and digital media, as well as contemporary life sciences, cybernetics, philosophy and science fiction. The concept of artificial life and resurrection was also discussed, and compared to similar themes in the 1914 book Locus Solus; the Phantoms in The Spirits Within were considered to be brought to life by various forces: by the alien planets red Gaia and then by human spiritual energy. 
+
+==Production==
+ 
+Aki Rosss voice actor, Ming-Na Wen, was selected for a perceived fit between her personality and Akis.  Ming-Na, who found the role via her publicist,  said she felt like she had given birth with her voice to the character.  She gradually accustomed herself to the difficulty of working without the presence and spontaneity of real actors, and commented that the voice-acting work did not take much time, as she would just go into the studio "once or twice a month for about four months" with no need for make-up and costuming sessions.  The workload was so light it did not interfere with her acting commitments in the television series ER (TV series)|ER.   
+ Onyx2 systems, Octane workstations for the films production.    The basic film was rendered at a custom render farm created by Square in Hawaii. It housed 960 Pentium III-933&nbsp;MHz workstations. Character movements were filmed using motion capture technology.     Animator Matthew Hackett stated that while motion capture was effective for many of the scenes, in others animators still had to add movements manually. Hand and facial movements were all done manually. Some of General Heins facial features and poses were based on Hackett.  As animators did not want to use any actual photographs in the film, all backgrounds were done using matte paintings.  1,327 scenes in total needed to be filmed to animate the digital characters.    The film consists of 141,964 frames, with each frame taking an average of 90 minutes to render.  By the end of production Square had a total of 15 terabytes of artwork for the film.  It is estimated that over the films four-year production, approximately 200 people put in a combined 120 years of work on it. 
+
+ }} 
+ Chris Lee Snow White and the Seven Dwarfs, the first full-length cel animated film.  In order to keep the film in line with Hironobu Sakaguchis vision as director, several script rewrites took place,  most in the initial stages of production.  Sakaguchi stated he was pleased with the films final cut, saying he would not have changed anything if given the chance.  The film had high cost overruns towards the end of filming. New funds had to be sourced to cover the increasing production costs while maintaining staff salaries.    The films final cost of $137 million,  which included about $30 million spent on marketing by the films distributor Columbia Pictures,  escalated from an original budget rumored to be around $70 million.  $45 million alone was spent on the construction of Squares studio in Hawaii. 
+
+===Character design===
+ 
+
+Each characters base body model was built from more than 100,000 polygon (computer graphics)|polygons,  plus more than 300,000 for clothing alone.  Akis character model bears 60,000 hairs, each of which were separately and fully animated and rendered.    In creating the characters, designers had to transition between using PowerAnimator, Autodesk Maya and RenderMan (software)|RenderMan. 
+
+Akis appearance was conceived by the lead animator of the project, Roy Sato, who created several conceptual designs for Sakaguchi to consider, and then used the selected design as a guide for her character model.  Sato perceived Akis original look as a "supermodel", and subsequently removed her make-up and shortened her hair in order to give her a more intelligent look that would "convince people that shes a scientist."    In an interview, Sato described actively trying to make her appear as realistic as possible, making her similar to himself in as many ways as he could in the animation, including elements of his personality through facial expressions.  He concluded that Aki ended up being similar to him in almost every way, with the exception that "shes a lot cuter".    The model for Aki was designed to closely follow human appearance, with Sakaguchi commenting in an interview "I think its OK to look at Aki and be convinced that shes a human."   
+
+Whilst Square ruled out any chance of a sequel to The Spirits Within before it was even completed, Sakaguchi intended to position Aki as being the "main star" for Square Pictures, using her in later games and films by Square, and including the flexibility of being able to modify aspects such as her age for such appearances.  Ming-Na stated that she would be willing if asked to continue voicing Aki.  Aki only made one appearance outside of the film; in 2002 she appeared in a demonstration video that Square Pictures made to present to the Wachowski Brothers before developing Final Flight of the Osiris for The Animatrix. The short film, appearing in the DVDs bonus content and featuring her with a slightly modified design, shows her acrobatically dueling a robot from the The Matrix (franchise)|Matrix setting.  Shortly afterwards, Square Pictures was closed and absorbed into Square Co. and the company ceased use of the character. 
+
+While the near lifelike appearance of the characters in the film was well received, some commentators felt the character renderings fell into the trap that many robotics scientists refer to as the "uncanny valley".  This concept describes when a robot or animated character becomes very realistic, but subtly different enough from reality to feel "creepy". John Mangan from The Age cited the film as an example of this phenomenon. 
+
+===Soundtrack===
+{{Infobox album
+| Italic title  =
+| Name          = Final Fantasy – Original Motion Picture Soundtrack
+| Type          = soundtrack
+| Longtype      = of Final Fantasy: The Spirits Within
+| Artist        = Elliot Goldenthal
+| Alt           =
+| Caption       =
+| Released      = July 3, 2001 AIR Lyndhurst Hall, London
+| Genre         = Film music 
+| Length        =   
+| Language      = English
+| Label         = Sony Classical Teese Gohl
+| Last album    = Titus (soundtrack)|Titus (2000)
+| This album    = Final Fantasy: The Spirits Within   (2001)
+| Next album    = Frida (soundtrack)|Frida (2002)
+}}
+ Sony Music. Spirit Dreams Inside" performed by Japanese rock band LArc-en-Ciel. 
+ AIR Lyndhurst Alien 3, Straussian brass brass clusters and taiko drum rhythms for violent scenes. When Aki talks about a dying girl, Goldenthal used a piano in order to give a domestic home-like feeling to a completely foreign environment, also choosing to use a flute each time Aki focusses on Gaia, as he believed it to be the most "human kind of instrument". 
+ Oscar if the film itself had been more popular,  as did the reviewer from Soundtrack Express, who gave the soundtrack 5 out of 5.  Christopher Coleman from Tracksounds gave the soundtrack 10 out of 10, stating the feel of the album was "expansive and majestic" and that the score elevated the viewing experience of the film.  A review from Filmtracks gave the album 4 out of 5, calling it "an easy album to recommend", adding "parts of it will blow you out of your seat."  Dan Goldwasser from Soundtrack.net also gave the soundtrack 4 out of 5, calling it a "must have". 
+ 
+ World Soundtrack Awards, but lost to "If I Didnt Have You" which was composed for Monsters, Inc.. 
+ 
+
+==Release==
+
+===Box office=== biggest box office bomb, estimating the films losses at the end of its cinema run at over $94 million.  In March 2012 CNBC considered it to be the 9th biggest box office bomb,  though Time s list of the ten biggest box office failures, which was released on the same day, did not include the film. 
+ 
+
+===Critical reception===
+The Spirits Within holds a 44% approval rating at Rotten Tomatoes based on 143 reviews (63 positive, 80 negative), where the consensus is the film "raises the bar for computer animated movies, but the story is dull and emotionally removed."  Similarly it has a weighted score of 49/100 at Metacritic based on 28 professional reviews.   
+ Playmate who has been retouched to glossy perfection."  He also expressed a desire for the film to succeed in hopes of seeing more films made in its image, though he was skeptical of its ability to be accepted.  Peter Bradshaw gave a more negative review, stating that while the animation was brilliant, the "solemnly realist human faces look shriekingly phoney precisely because theyre almost there but not quite", concluding "The story is adequate, if familiar, but after half an hour relapses into cliche." 
+
+===Reception of Aki Ross===
+  s featuring of Aki in their "Hot 100" list resulted in increased media attention towards the character. | alt=Aki Ross in a bikini, as featured in Maxim magazine]]
+Akis appearance was received positively by critics,  with praise for the finer details of the character model such as the rendering of her hair.  Entertainment Weekly named Aki an " .  Ruth La Ferla from  .  In contrast, Livia Monnet criticized her character as an example of the constantly kidnapped female in Japanese cinema, further "diluted" by her existence solely as a computer-generated character representing "an ideal, cinematic female character that has no real referent."  Writing in the book Action and Adventure Cinema, Marc ODay described her as among the "least overtly eroticised" female characters in science fiction, though stated that Aki was "transformed in a variety of poses into an erotic fantasy machine" in a photo shoot that was included on the DVDs special features. 
+
+===Legacy and related media===
+ Square and Enix, which had been under consideration since at least 2000 according to Yasuhiro Fukushima, Enix chairman at the time, was delayed because of the failure of the film and Enix hesitation at merging with a company that had just lost a substantial amount of money.  Square Pictures announced in late January 2002 that they were closing down, largely due to the commercial failure of The Spirits Within. 
+
+The films CGI effects have been compared favourably with later CGI films such as James Camerons 2009 film Avatar (2009 film)|Avatar.    In 2011, BioWare art director Derek Watts cited The Spirits Within as a major influence on the successful Mass Effect series of action role-playing games. 
+
+Although the film was loosely based on a video game series, there were never any plans for a game adaptation of the film itself. Sakaguchi indicated the reason for this was the lack of powerful gaming hardware at the time, feeling the graphics in any game adaptation would be far too much of a step down from the graphics in the film itself. 
+
+A novelization was written by   in August 2001.  Edited by Steven L. Kent, the 240 page color book contains a foreword by director Sakaguchi and extensive information on all aspects of the films creation, including concept art, storyboards, sets and props, layout, motion capture and animation, as well as a draft of the full Screenplay|script. 
+
+==Accolades== Golden Reel Best Animated Feature" at the 5th Online Film Critics Society awards.  The films trailer was nominated for the "Golden Fleece" award at the 3rd Golden Trailer Awards. 
+
+{| class="wikitable"
+|-
+! Year
+! Event
+! Award
+! Nominee
+! Result
+|-
+|rowspan=6| 2002 Golden Reel Awards
+| Best Sound Editing – Animated Feature Film
+| Sound editing team
+| 
+|-
+| Golden Trailer Awards
+| Golden Fleece
+| Final Fantasy: The Spirits Within trailer (Giaronomo Productions, Inc.)
+| 
+|-
+| Japan Media Arts Festival
+| Jury Prize
+| Final Fantasy: The Spirits Within
+|  
+|-
+| Online Film Critics Society Awards Best Animated Feature
+| Final Fantasy: The Spirits Within
+| 
+|-
+| Saturn Awards Best DVD Special Edition Release
+| Final Fantasy: The Spirits Within DVD
+| 
+|- World Soundtrack World Soundtrack Awards Best Original Song Written for a Film
+|"The Dream Within"  (Elliot Goldenthal, Richard Rudolf, and Lara Fabian)
+| 
+|}
+
+==Home media== easter egg Michael Jacksons Thriller. Fifteen featurettes, including seven on character biographies, three on vehicle comparisons and an interactive "Making Of" featurette, were also included. Other features included Akis dream viewable as a whole sequence, the films original opening sequence, and intentional outtakes.   Peter Bracke from High-Def Digest stated the DVD was "so packed with extras it was almost overwhelming", stating that Sony went "all-out" on the extra features in a likely attempt to boost DVD sales and recover losses.  The DVD was nominated for "Best DVD Special Edition Release" at the 28th Saturn Awards. 
+
+Aaron Beierle from DVD Talk gave a positive review of the DVD, rating it 4½ out of 5 stars for audio quality, video quality and special features.    Dustin Somner from Blu-ray.com gave the Blu-ray version 5 out of 5 stars for video quality and special features, and 4½ stars for audio quality.    Peter Bracke gave the Blu-ray version 4 out of 5 stars overall. 
+
+==References==
+ 
+Bibliography
+ 
+* 
+}}
+* 
+* 
+*   
+* 
+}}
+* 
+* 
+ 
+
+==External links==
+*  
+*  
+*  
+*  
+*  
+*  
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
